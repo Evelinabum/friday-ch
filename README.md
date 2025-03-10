@@ -4,7 +4,7 @@ website design project
 🌟 About
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://evelinabum.github.io/miestas-html/
+Site published at: https://evelinabum.github.io/friday-ch/
 
 Design: https://dribbble.com/shots/2815937-404-page
 
@@ -23,7 +23,7 @@ https://git-scm.com
 Would like to run this project locally? Open terminal and follow these steps:
 
 Clone the repo
-git clone https://evelinabum.github.io/miestas-html/
+git clone https://evelinabum.github.io/friday-ch/
 Install NPM packages
 npm i
 or
